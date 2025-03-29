@@ -29,7 +29,7 @@ This is a responsive web project created as part of a learning exercise. The web
 
 ## Preview
 
-To preview the website, simply open `index.html` in any modern web browser.
+[To preview the website, simply open `index.html` in any modern web browser.](https://20dinara03.github.io/Website-Project---The-Crystal-Palace-VUT_FIT/)
 
 ## License
 
